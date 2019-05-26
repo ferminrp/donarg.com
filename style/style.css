@@ -243,11 +243,7 @@ h1 {
   justify-content: space-between;
 }
 
-footer a {
-  color: #788896!important;
-}
-
-footer a {
+.footer a {
   color: #788896!important;
 }
 
