@@ -1,0 +1,285 @@
+#header {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  height: 64px;
+  align-items: center;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+#header p {
+  margin-bottom: 0rem;
+}
+
+#header-icon {
+  display: flex;
+  align-items: center;
+}
+
+#header-links {
+  display: flex;
+  align-items: center;
+  width: 50vw;
+  justify-content: space-around;
+}
+
+#header-icon {
+  font-weight: bold;
+}
+#header a {
+  color: #212529;
+}
+
+#header a:hover {
+  color: #212529;
+  text-decoration: none;
+}
+
+#hero {
+  background-image: url("https://static.wixstatic.com/media/255192_0b6e8563c9c9425ba4b5474157ca451e~mv2_d_7544_5032_s_4_2.jpg/v1/fill/w_1225,h_675,al_c,q_85,usm_0.66_1.00_0.01/255192_0b6e8563c9c9425ba4b5474157ca451e~mv2_d_7544_5032_s_4_2.webp");
+  background-color: #ccc;
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#hero-overlay {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.65);
+  height: 60vh;
+  display: flex;
+  align-items: center;
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15vw;
+  margin-right: 15vw;
+  font-family: Roboto,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"
+  /*justify-content: center;
+  align-items: center;*/
+}
+
+.hero-text p {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+}
+
+#cta {
+  width: 300px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.body-headings {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.body-headings h2 {
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 45px;
+}
+
+.body-headings p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.featured {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-bottom: 50px;
+  flex-wrap: wrap;
+}
+
+.ngo-card {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #C3CFD9;
+  color: #293845;
+  margin-top: 20px;
+}
+
+.img-container {
+  /*background-image: url("https://www.telediariodigital.net/wp-content/uploads/2014/09/art21.foto1_.jpg");*/
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  width: 300px;
+  height: 150px;
+  background-position: center;
+  /*background-repeat: no-repeat;*/
+  margin: -1px -1px -1px -1px;
+}
+
+#featured-one {
+  background-image: url("/images/home/techo.jpg");
+}
+
+#featured-two {
+  background-image: url("/images/home/conin.jpg");
+}
+
+#featured-three {
+  background-image: url("/images/home/bancodebosques.jpg");
+}
+
+.ngo-card p {
+  margin-top: 15px;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.icon-list {
+  margin-left: 15px;
+  display: flex;
+  width: 35%;
+  font-size: 25px;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.icon-list a {
+  color: #293845;
+}
+
+#cat-title {
+  margin-left: 15vw;
+}
+
+.categories {
+  display: flex;
+  justify-content: space-evenly;
+  /*padding-top: 50px;*/
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-bottom: 50px;
+  flex-wrap: wrap;
+}
+
+.cat-card {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #C3CFD9;
+  color: #293845;
+  margin-top: 5vh;
+  margin-right: 2.5vh;
+  margin-left: 2.5vh;
+}
+
+.cat-card p {
+  margin-top: 9px;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.cat-img-container {
+  background-image: url("https://www.telediariodigital.net/wp-content/uploads/2014/09/art21.foto1_.jpg");
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  width: 240px;
+  height: 150px;
+  background-position: center;
+  /*background-repeat: no-repeat;*/
+  margin: -1px -1px -1px -1px;
+}
+
+#ecologia {
+  background-image: url("/images/home/ecologia.jpg");
+}
+#desnutricion {
+  background-image: url("/images/home/desnutricion.jpg");
+}
+#empleo {
+  background-image: url("/images/home/empleo.jpg");
+}
+#salud {
+  background-image: url("/images/home/salud.jpg");
+}
+#investigacion {
+  background-image: url("/images/home/investigacion.jpg");
+}
+#social {
+  background-image: url("/images/home/social.jpg");
+}
+#deporte {
+  background-image: url("/images/home/deporte.jpg");
+}
+#educacion {
+  background-image: url("/images/home/educacion.jpg");
+}
+
+
+.footer {
+  width: 100vw;
+  height: 15vh;
+  background-color: #DFE7ED;
+  display: flex;
+  padding-left: 15vw;
+  padding-right: 15vw;
+  padding-top: 5vh;
+  justify-content: space-between;
+}
+
+.footer-links {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.footer-links p {
+  margin-right: 30px;
+  font-weight: 400;
+  color: #788896;
+  font-family: sans-serif;
+  margin-top: 0.5rem;
+}
+
+.footer-social {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  font-size: 25px;
+  color: #788896;
+  flex-wrap: wrap;
+}
+
+.footer-social span {
+  margin-left: 15px;
+}
+
+@media (max-width: 880px) {
+  #header-links {
+    display: none !important;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  .hero-text {
+    margin-left: 10vw;
+  }
+  h2 {
+    font-size: 2em !important;
+  }
+  .footer-links {
+    display: none;
+  }
+}
