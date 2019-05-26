@@ -127,6 +127,10 @@ h1 {
   margin: -1px -1px -1px -1px;
 }
 
+.categories a:hover {
+  text-decoration: none;
+}
+
 #featured-one {
   background-image: url("/images/home/techo.jpg");
 }
