@@ -1,5 +1,6 @@
 url = 'https://api.sheety.co/2d06d8e4-fff7-4f46-88c3-b08e01129e77'
 
+
 //connecting to spreadsheet and then parsing the data
   $.getJSON(url, function(data) {
     //var obj = data.feed.entry;
