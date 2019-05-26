@@ -244,7 +244,7 @@ h1 {
 }
 
 footer a {
-  color: #788896;
+  color: #788896!important;
 }
 
 footer a:hover {
