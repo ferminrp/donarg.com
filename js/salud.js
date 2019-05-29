@@ -1,4 +1,3 @@
-//not updated
 url = 'https://api.sheety.co/e0f7bcd7-6717-4ebf-aa9e-396a222b989a'
 
 
