@@ -113,6 +113,7 @@ h1 {
   border-color: #C3CFD9;
   color: #293845;
   margin-top: 20px;
+  border-radius: 10px;
 }
 
 .img-container {
@@ -125,6 +126,12 @@ h1 {
   background-position: center;
   /*background-repeat: no-repeat;*/
   margin: -1px -1px -1px -1px;
+  -webkit-border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-moz-border-radius-topleft: 10px;
+-moz-border-radius-topright: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
 }
 
 .categories a:hover {
