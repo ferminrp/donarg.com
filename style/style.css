@@ -114,6 +114,7 @@ h1 {
   color: #293845;
   margin-top: 20px;
   border-radius: 10px;
+  box-shadow: -10px 10px 10px #80808047;
 }
 
 .img-container {
