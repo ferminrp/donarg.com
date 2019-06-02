@@ -233,12 +233,11 @@ h1 {
 
 
 .footer {
-  width: 100vw;
   height: 15vh;
   background-color: #DFE7ED;
   display: flex;
-  padding-left: 10vw;
-  padding-right: 10vw;
+  padding-left: 15vw;
+  padding-right: 15vw;
   padding-top: 5vh;
   justify-content: space-between;
 }
