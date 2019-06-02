@@ -237,8 +237,8 @@ h1 {
   height: 15vh;
   background-color: #DFE7ED;
   display: flex;
-  padding-left: 15vw;
-  padding-right: 15vw;
+  padding-left: 10vw;
+  padding-right: 10vw;
   padding-top: 5vh;
   justify-content: space-between;
 }
