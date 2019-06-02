@@ -11,4 +11,5 @@ https://donarg.com/categorias/educacion
 https://donarg.com/categorias/deporte
 https://donarg.com/categorias/social
 https://donarg.com/categorias/investigacion
+https://donarg.com/categorias/internacionales
 https://status.donarg.com/
