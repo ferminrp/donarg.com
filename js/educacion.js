@@ -1,4 +1,4 @@
-url = 'https://api.sheety.co/1aac18ec-4405-40fb-9c3c-27b18714ab24'
+url = 'https://api.sheety.co/be5d1d07-10f1-4884-832e-2bff2584d31a'
 
 
 //connecting to spreadsheet and then parsing the data
