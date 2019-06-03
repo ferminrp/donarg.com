@@ -1,5 +1,5 @@
 //not updated
-url = 'https://api.sheety.co/2a177fbd-1f8c-4820-89de-91a7eede5ad4'
+url = 'https://api.sheety.co/4da00f82-8e60-4073-8910-1abfc61b5115'
 
 
 //connecting to spreadsheet and then parsing the data
