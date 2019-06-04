@@ -113,10 +113,11 @@ h1 {
   border-color: #C3CFD9;
   color: #293845;
   margin-top: 20px;
+  margin-bottom: 20px;
   border-radius: 10px;
   box-shadow: -10px 10px 10px #80808047;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .grow { transition: all .2s ease-in-out; }
 .grow:hover { transform: scale(1.1); }
